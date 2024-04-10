@@ -1,2 +1,3 @@
 # Tattoo
-A web resource dedicated to the art of tattoos, where individuality and creativity are embodied through exquisite patterns on the body.
+My first custom tattoo web platform where each piece becomes a unique and inspiring piece of art on your body.
+
